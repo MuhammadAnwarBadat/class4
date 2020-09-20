@@ -19,8 +19,6 @@ function increaseAge() {
   //isLit = !isLit;
   //age = 67;
 }
-
-
   return (
     <div>
       This room is {isLit? "lit": "dark"}
